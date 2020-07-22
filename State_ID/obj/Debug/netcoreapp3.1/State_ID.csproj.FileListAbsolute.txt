@@ -1,0 +1,11 @@
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.exe
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.deps.json
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.runtimeconfig.json
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.runtimeconfig.dev.json
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.dll
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\bin\Debug\netcoreapp3.1\State_ID.pdb
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\obj\Debug\netcoreapp3.1\State_ID.csprojAssemblyReference.cache
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\obj\Debug\netcoreapp3.1\State_ID.AssemblyInfoInputs.cache
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\obj\Debug\netcoreapp3.1\State_ID.AssemblyInfo.cs
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\obj\Debug\netcoreapp3.1\State_ID.dll
+C:\Users\Kyle\OneDrive\School\C#_Programming\State_ID\State_ID\State_ID\obj\Debug\netcoreapp3.1\State_ID.pdb

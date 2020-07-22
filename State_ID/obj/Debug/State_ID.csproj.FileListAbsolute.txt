@@ -1,0 +1,9 @@
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\State_ID.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\WindowsFormsApp1.State_ID.resources
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\State_ID.csproj.GenerateResource.cache
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle\Desktop\State_ID\State_ID\State_ID\obj\Debug\WindowsFormsApp1.pdb
